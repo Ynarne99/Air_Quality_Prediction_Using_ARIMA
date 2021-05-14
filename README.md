@@ -17,3 +17,16 @@ Here is the link to access the cleaned dataset https://archive.ics.uci.edu/ml/da
     <li>Saving the model</li>
 </ul>
 <br>
+<br>
+<h3><b>Future Work</b></h3>
+<ul>
+    <li>You can try box cox transformation on the original series and use that as input for the model, apply grid search on the transformed dataset to find optimal parameters.</li>
+    <li>
+Also it is often appropriate to use AIC in the model selection.</li>
+    
+</ul>
+<br>
+
+
+
+
