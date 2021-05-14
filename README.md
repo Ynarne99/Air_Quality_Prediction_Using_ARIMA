@@ -7,7 +7,8 @@
 Here is the link to access the cleaned dataset https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data </p>
 <br>
 <h3><b>Project workflow</b></h3>
-<p>This project utilizes the Time Series model. The model we hope to succeed in training is a regression model and below are the steps we will go through in this colab notebook for this project:</p>
+<p>This project utilizes the Time Series model. In this model we hope to succeed in training is a model and below are the steps we will go through in this colab notebook for this project:</p> 
+<p> Access the link for the notebook https://github.com/Ynarne99/Air_Quality_Prediction_Using_ARIMA/blob/main/PHASE-3/AIR_QUALITY_USING_ARIMA_FINAL.ipynb </p>
 <ul>
     <li>Import the neccessary libraries and loading the data</li>
     <li>Data preprocessing</li>
