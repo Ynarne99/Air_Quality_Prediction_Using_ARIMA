@@ -17,6 +17,10 @@ Here is the link to access the cleaned dataset https://archive.ics.uci.edu/ml/da
     <li>Saving the model</li>
 </ul>
 <br>
+<h3><b>Problems Faced</b></h3>
+<p>Overfitting happened and its hard to handle when a model learns the detail and noise in the training data to the extent that it negatively impacts the performance of the model on new data. This means that the noise or random fluctuations in the training data is picked up and learned as concepts by the model. The problem is that these concepts do not apply to new data and negatively impact the models ability to generalize.
+
+Overfitting is more likely with nonparametric and nonlinear models that have more flexibility when learning a target function. As such, many nonparametric machine learning algorithms also include parameters or techniques to limit and constrain how much detail the model learns.</p>
 <br>
 <h3><b>Future Work</b></h3>
 <ul>
