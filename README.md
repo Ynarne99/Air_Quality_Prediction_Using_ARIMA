@@ -4,7 +4,7 @@
 <br>
 <h3><b>Dataset Information</b></h3>
 <p>This data set includes hourly air pollutants data from 12 nationally-controlled air-quality monitoring sites. The air-quality data are from the Beijing Municipal Environmental Monitoring Center. The meteorological data in each air-quality site are matched with the nearest weather station from the China Meteorological Administration. The time period is from March 1st, 2013 to February 28th, 2017. Missing data are denoted as NA.
-    https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data</p>
+Here is the link to access the cleaned dataset https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data </p>
 <br>
 <h3><b>Project workflow</b></h3>
 <p>This project utilizes the Time Series model. The model we hope to succeed in training is a regression model and below are the steps we will go through in this colab notebook for this project:</p>
